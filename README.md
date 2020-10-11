@@ -1,12 +1,10 @@
 # TaskDins
 Задания для Dins.
 
-java 1.8.0_256
-
+Стек:
+java 1.8
 Selenide
-
 Junit 5
-
 FTPClient
 
 Папка test/java/ui содержит тест DownloadFileTest на скачивание с сервера ftp://speedtest.tele2.net/ 
