@@ -7,7 +7,7 @@ Selenide
 
 Junit 5
 
-FTP
+FTPClient
 
 Папка test/java/ui содержит тест DownloadFileTest на скачивание с сервера ftp://speedtest.tele2.net/ 
 по средствам Selenide, данный тест обращается к классу UnzipFile в папке main/java/utility
