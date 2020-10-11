@@ -2,8 +2,11 @@
 Задания для Dins.
 
 java 1.8.0_256
+
 Selenide
+
 Junit 5
+
 FTP
 
 Папка test/java/ui содержит тест DownloadFileTest на скачивание с сервера ftp://speedtest.tele2.net/ 
